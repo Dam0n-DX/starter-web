@@ -8,6 +8,10 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+This is purpose section
+
 ## Deloyment
+
+This is a Simple Web Project. Delpoyment Section
 
 ## How to Contribute
