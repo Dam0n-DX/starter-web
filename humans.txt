@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shailesh Sharma shailesh@git.com @Shailesh	
 
 # THANKS
 
