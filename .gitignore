@@ -1,3 +1,4 @@
 robot.txt
 *.log
 log/
+*.orig
